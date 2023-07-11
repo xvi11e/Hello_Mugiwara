@@ -1,2 +1,2 @@
-# Hello_Mugiwara
-An intro
+# Mugiwara
+An introduction to Git and Github learning
